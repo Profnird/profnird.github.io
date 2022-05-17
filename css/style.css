@@ -205,8 +205,6 @@ header a:hover {
     font-size: 1rem;
     background: #fff;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.1);
-    /* outline: .1rem solid #ccc; */
-    /* outline-offset: -1.5rem; */
     border-radius: 2em;
 }
 
