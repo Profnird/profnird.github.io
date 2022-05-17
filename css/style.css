@@ -107,7 +107,6 @@ header a:hover {
     align-items: center;
     font-size: 1rem;
     flex: 1;
-    border: 1px solid;
     /* word-wrap: wrap; */
 }
 
@@ -144,7 +143,6 @@ header a:hover {
 .desc-a {
     font-size: 2rem;
     text-align: left;
-    /* border: 1px solid; */
 }
 
 .--landing-text>* {
@@ -156,7 +154,6 @@ header a:hover {
 
     .--landing-text>h2 {
         font-size: 4rem;
-        border: 1px solid;
         text-align: left;
     }
 
