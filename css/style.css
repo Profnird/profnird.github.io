@@ -29,6 +29,13 @@ body {
     gap: 1em;
 }
 
+canvas {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+
 .--landing-page {
     display: flex;
     border-bottom: 1px solid rgb(182, 179, 179);
